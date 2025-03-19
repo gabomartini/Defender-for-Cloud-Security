@@ -4,11 +4,11 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- Assess and enhance cloud security posture using Microsoft Defender for Cloud.*
+*•	Assess and enhance your cloud security posture.*
 
-*- Configure compliance policies and workload protections for secure cloud environments.*
+*•	Configure compliance policies and workload protections to secure cloud environments.*
 
-*- Analyze, respond to, and mitigate security threats effectively.*
+*•	Analyze and mitigate security threats effectively.*
 
 #### Tasks:
  1. Activating Microsoft Defender for Cloud.
